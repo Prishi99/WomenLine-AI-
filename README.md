@@ -1,6 +1,6 @@
-Foundation Setup & Technical Groundwork
+**Foundation Setup & Technical Groundwork**
 
- Women Line AI deleloper
+ Women Line AI developer
 
 
 AI Developer: 
@@ -44,19 +44,10 @@ Google colab (for cloud-based coding and  GPU/TUP acceleration)
 Installation :
 
 Clone the repository:
+
 https://github.com/Prishi99/WomenLine-AI-.git
+
 cd WomenLine-AI-
-
-
- Contributors :
-
-Prishita shukla
-Vandana Baraiya
-Shalini kumari 
-Neha 
-Anjali 
-
-
 
 
 
