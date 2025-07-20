@@ -1,6 +1,7 @@
 **Foundation Setup & Technical Groundwork**
 
- Women Line AI developer
+ WomenLine AI Developer Internship 
+ 
 
 
 AI Developer: 
