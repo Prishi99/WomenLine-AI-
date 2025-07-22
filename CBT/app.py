@@ -1,5 +1,5 @@
 import streamlit as st
-from language_detector import detect_language, get_prompt
+from language_handler import detect_language, get_prompt
 
 st.title("🩸 Period CBT Prompt Recommender")
 st.write("Welcome! Get a customized mental wellness prompt based on your feelings.")
