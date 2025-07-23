@@ -1,4 +1,4 @@
-from language_detector import detect_language, get_prompt
+from language_handler import detect_language, get_prompt
 
 def run_prompt_demo():
     print("🩸 Welcome to Period CBT Prompt Recommender")
