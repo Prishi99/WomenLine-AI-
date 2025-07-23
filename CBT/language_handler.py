@@ -1,23 +1,36 @@
-import json
-from langdetect import detect
+import csv
 import random
+import re
+from langdetect import detect
 
-# ----------- Language Detection -----------
+# ----------- Better Hinglish Detection -----------
+HINGLISH_HINTS = [
+    'nahi', 'ha', 'haan', 'kyun', 'achha', 'accha', 'kya', 'tum', 'kaise', 'hai', 'tha',
+    'chal', 'mat', 'bhai', 'thik', 'theek', 'nhi', 'mera', 'tera', 'rha', 'raha', 'diya',
+    'gaya', 'hota', 'karte', 'karna', 'bhi', 'lag', 'rha', 'h', 'or', 'se', 'mujhe',
+    'chichidipan', 'main', 'apna', 'dil', 'bol', 'kyunki', 'samajh'
+]
+
+def is_hinglish(text):
+    words = re.findall(r'\b\w+\b', text.lower())
+    hindi_like = sum(word in HINGLISH_HINTS for word in words)
+    return hindi_like >= 2
+
 def detect_language(text):
     try:
+        if is_hinglish(text):
+            return 'hinglish'
         lang = detect(text)
-        if lang in ['hi', 'ta', 'en']:
-            return lang
-        else:
-            return 'en'
+        return lang if lang in ['hi', 'ta', 'bn', 'mr', 'en'] else 'en'
     except:
-        return 'en'  # fallback
+        return 'en'
 
-# ----------- Load Prompt File -----------
-def load_prompts(file_path="cbt_prompts_all.json"):
+# ----------- Load Prompt File from CSV -----------
+def load_prompts(file_path="CBT_PROPMT - Sheet1.csv"):
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
-            return json.load(f)
+            reader = csv.DictReader(f)
+            return list(reader)
     except Exception as e:
         print(f"Error loading prompt file: {e}")
         return []
@@ -26,37 +39,45 @@ def load_prompts(file_path="cbt_prompts_all.json"):
 def get_prompt(preferred_lang='en', intent=None, theme=None, cycle_phase=None):
     prompts = load_prompts()
     
-    # Apply filters
-    filtered = prompts
-    if intent:
-        filtered = [p for p in filtered if p['intent'] == intent]
-    if theme:
-        filtered = [p for p in filtered if p['theme'] == theme]
-    if cycle_phase:
-        filtered = [p for p in filtered if p['cycle_phase'] == cycle_phase]
+    def norm(s):
+        return s.strip().lower() if s else ''
 
-    if not filtered:
-        return "No matching prompt found. Please try a different category."
+    intent = norm(intent)
+    theme = norm(theme)
+    cycle_phase = norm(cycle_phase)
 
-    selected_prompt = random.choice(filtered)
-    
-    # Pick correct language field or fallback to English
-    lang_key = f"prompt_{preferred_lang}"
-    if lang_key in selected_prompt and selected_prompt[lang_key].strip():
-        return selected_prompt[lang_key]
+    best_score = -1
+    best_prompt = None
+
+    for p in prompts:
+        score = 0
+        if norm(p.get('intent')) == intent:
+            score += 1
+        if norm(p.get('theme')) == theme:
+            score += 1
+        if norm(p.get('cycle_phase')) == cycle_phase:
+            score += 1
+
+        if score > best_score:
+            best_score = score
+            best_prompt = p
+
+    if not best_prompt:
+        return "⚠️ Sorry, no prompts are available in the dataset."
+
+    lang_map = {
+        'en': 'prompt',
+        'hi': 'Hindi Translation',
+        'ta': 'Tamil Translation',
+        'bn': 'Bengali Translation',
+        'mr': 'Marathi Translation',
+        'hinglish': 'Hinglish Translation'
+    }
+
+    lang_field = lang_map.get(preferred_lang, 'prompt')
+    prompt_text = best_prompt.get(lang_field)
+
+    if prompt_text and prompt_text.strip():
+        return prompt_text.strip()
     else:
-        return selected_prompt["prompt_en"]
-
-# ----------- Example usage -----------
-if __name__ == "__main__":
-    # Example user input
-    user_input = "मुझे चिंता हो रही है"
-    
-    # Detect language
-    lang_code = detect_language(user_input)
-    print(f"Detected language: {lang_code}")
-    
-    # Get a prompt in that language
-    prompt_text = get_prompt(preferred_lang=lang_code, intent="stress_relief", cycle_phase="menstruation")
-    
-    print(f"Prompt:\n{prompt_text}")
+        return best_prompt.get('prompt', '⚠️ Prompt not available')
