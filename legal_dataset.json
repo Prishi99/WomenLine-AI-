@@ -1,0 +1,1729 @@
+[
+  {
+    "intent": "domestic_abuse",
+    "question": "What constitutes domestic abuse in India?",
+    "answer": "Domestic abuse includes physical, emotional, sexual, verbal, and economic abuse within a domestic relationship. [Source: Protection of Women from Domestic Violence Act, 2005]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Can men also be victims of domestic abuse?",
+    "answer": "Yes, though Indian law mainly protects women, male victims can seek support from NGOs and counseling services. [Source: Ministry of Women & Child Development]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Which law governs domestic violence in India?",
+    "answer": "The Protection of Women from Domestic Violence Act, 2005 governs domestic violence. [Source: NALSA India]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "What types of abuse are covered under this law?",
+    "answer": "The law includes physical, sexual, verbal, emotional, and economic abuse. [Source: NALSA Handbook on Domestic Violence]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "How can a woman file a domestic violence complaint?",
+    "answer": "She can visit the police station, Protection Officer, or District Legal Services Authority. [Source: NALSA, DLSA]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Can domestic abuse be reported anonymously?",
+    "answer": "Yes, anonymous complaints can be made via helplines, though formal FIRs require identity. [Source: National Commission for Women (NCW)]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "What is a Protection Officer’s role?",
+    "answer": "They help victims access court orders, shelter, medical aid, and legal support. [Source: Section 9, DV Act, 2005]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Can a woman stay in the shared home after filing a case?",
+    "answer": "Yes, the law guarantees her right to reside in the shared household. [Source: Section 17, DV Act]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Are shelter homes available for victims?",
+    "answer": "Yes, various government and NGO-run shelters provide accommodation. [Source: Nirbhaya Fund – MWCD]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Can legal aid provide medical support too?",
+    "answer": "Yes, DLSAs often facilitate access to medical services. [Source: NALSA Scheme on Women Victims of Violence, 2015]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "How long does it take to get a protection order?",
+    "answer": "Protection orders can be issued within days based on urgency. [Source: DV Act, Section 18]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Are in-laws covered under domestic abuse law?",
+    "answer": "Yes, the law covers abuse by in-laws and other relatives. [Source: NALSA Handbook on Women Rights]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Is counseling available during domestic violence proceedings?",
+    "answer": "Yes, courts can recommend counseling for affected parties. [Source: Family Court Rules]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Can a domestic violence complaint be withdrawn?",
+    "answer": "It can be withdrawn with court permission depending on the case stage. [Source: DV Act Procedure Rules]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Are live-in partners protected under this law?",
+    "answer": "Yes, the Act protects women in relationships 'in the nature of marriage'. [Source: Supreme Court Judgment: D. Velusamy vs D. Patchaiammal]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "What are the penalties for domestic violence?",
+    "answer": "Violators may face fines, imprisonment, or both depending on the charges. [Source: Indian Penal Code, Section 498A]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "What if police refuse to file my complaint?",
+    "answer": "You can escalate to a senior officer or approach a Magistrate directly. [Source: CrPC Section 156(3)]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "What documents do I need to submit?",
+    "answer": "FIR copy, medical reports, witness accounts, and any communication proof. [Source: Legal Aid Handbook by NALSA]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Can mediation be used in domestic abuse cases?",
+    "answer": "Yes, if both parties consent and the court allows. [Source: Mediation Rules of Family Courts]"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Can a Protection Officer accompany me to my home?",
+    "answer": "Yes, to retrieve belongings or ensure safety. [Source: DV Act, Section 9(1)(d)]"
+  },
+
+  {
+    "intent": "workplace_harassment",
+    "question": "What is considered sexual harassment at the workplace?",
+    "answer": "It includes unwelcome physical contact, sexually colored remarks, showing pornography, or demands for sexual favors. [Source: The Sexual Harassment of Women at Workplace Act, 2013]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "Which law protects women from workplace harassment in India?",
+    "answer": "The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013. [Source: Ministry of Women and Child Development]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "Does the law apply to private companies?",
+    "answer": "Yes, the law applies to both public and private organizations. [Source: POSH Act, 2013]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "Can men file complaints under the POSH Act?",
+    "answer": "No, the POSH Act protects only women, but men can seek redress under internal HR policies or IPC. [Source: POSH Act limitations]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "What is the role of the Internal Committee (IC)?",
+    "answer": "The IC investigates sexual harassment complaints and recommends actions. [Source: Section 4, POSH Act]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "Is it mandatory for all companies to form an IC?",
+    "answer": "Yes, every organization with 10 or more employees must have an Internal Committee. [Source: POSH Act, Section 4(1)]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "Can interns and contract workers file complaints?",
+    "answer": "Yes, interns, part-time, and contractual workers are covered under the Act. [Source: Section 2(f), POSH Act]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "How much time do I have to file a complaint?",
+    "answer": "You must file it within 3 months of the incident, extendable by another 3 months with valid reason. [Source: POSH Act, Section 9]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "Can I take legal action outside of the IC process?",
+    "answer": "Yes, you can file an FIR under IPC Sections like 354 or 509. [Source: Indian Penal Code]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "Is it possible to remain anonymous during the complaint?",
+    "answer": "The IC maintains strict confidentiality, but full anonymity isn't always possible. [Source: Section 16, POSH Act]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "What are the penalties for false complaints?",
+    "answer": "If proven malicious, the complainant may face action; however, inability to prove is not false by default. [Source: Section 14, POSH Act]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "What support can I get after filing a complaint?",
+    "answer": "You can request transfer, paid leave, or a change in reporting officer. [Source: Section 12, POSH Act]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "What happens after the Internal Committee’s inquiry?",
+    "answer": "The IC submits a report within 90 days recommending action to the employer. [Source: Section 13, POSH Act]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "What punishment can an accused face under this law?",
+    "answer": "Punishment includes a written apology, warning, demotion, or termination. [Source: Section 13(3), POSH Act]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "Are educational institutions included under the Act?",
+    "answer": "Yes, schools, colleges, and universities are also workplaces under this Act. [Source: UGC Guidelines on POSH, 2016]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "Can I go to the Local Complaints Committee (LCC)?",
+    "answer": "Yes, if your workplace has less than 10 employees or no IC, you can approach the LCC. [Source: Section 6, POSH Act]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "Is training about sexual harassment mandatory for companies?",
+    "answer": "Yes, companies must conduct awareness and training programs. [Source: POSH Rules, 2013]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "What if my IC is biased or unfair?",
+    "answer": "You can appeal the IC’s decision within 90 days to a civil court or tribunal. [Source: Section 18, POSH Act]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "Can I withdraw my complaint later?",
+    "answer": "Yes, a complaint can be withdrawn in writing, though the IC may continue investigation if needed. [Source: IC Discretion – POSH Guidelines]"
+  },
+  {
+    "intent": "workplace_harassment",
+    "question": "Where can I report if there is no IC or LCC?",
+    "answer": "You can file a police complaint or approach NCW or your State Commission for Women. [Source: National Commission for Women (NCW)]"
+  },
+  
+  {
+    "intent": "cyber_abuse",
+    "question": "What is cyber abuse?",
+    "answer": "Cyber abuse includes online harassment, stalking, defamation, impersonation, and cyberbullying. [Source: Ministry of Home Affairs – Cyber Crime Division]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Where can I report cyberbullying in India?",
+    "answer": "You can report on the National Cyber Crime Reporting Portal at cybercrime.gov.in. [Source: Government of India – Cyber Crime Portal]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Can I file a complaint anonymously?",
+    "answer": "Yes, the cybercrime portal allows anonymous reporting for specific offences like child pornography. [Source: cybercrime.gov.in]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What should I do if someone is impersonating me online?",
+    "answer": "Report the impersonation with proof to the platform and to the cyber cell or cybercrime portal. [Source: CERT-In]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Is sharing intimate images without consent a crime?",
+    "answer": "Yes, it is a punishable offense under Section 66E of the IT Act and IPC Section 354C. [Source: Information Technology Act, 2000]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What is cyberstalking?",
+    "answer": "Cyberstalking involves repeatedly sending unwanted messages, threats, or surveillance online. [Source: IPC Section 354D]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What law governs cybercrime in India?",
+    "answer": "The Information Technology Act, 2000 and relevant sections of the IPC. [Source: Ministry of Electronics and IT (MeitY)]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Can I report if someone is blackmailing me online?",
+    "answer": "Yes, blackmailing using online content is a cybercrime and must be reported immediately. [Source: cybercrime.gov.in]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Can minors be victims of cyber abuse?",
+    "answer": "Yes, children are highly vulnerable to cyberbullying and online exploitation. [Source: National Commission for Protection of Child Rights (NCPCR)]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Is trolling a punishable offense?",
+    "answer": "If trolling includes threats, abuse, or hate speech, it may be punishable. [Source: IPC Section 506, 504]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Can cyber abuse be reported at a police station?",
+    "answer": "Yes, every police station can accept cybercrime complaints. Many cities have dedicated cyber cells. [Source: State Cyber Cells]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What evidence should I keep while reporting cyber abuse?",
+    "answer": "Keep screenshots, chat logs, email headers, and URLs. [Source: National Cyber Security Coordinator]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What is the punishment for sending obscene messages online?",
+    "answer": "Under Section 67 of the IT Act, sending obscene messages can lead to up to 3 years of imprisonment. [Source: IT Act, 2000]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What is the role of CERT-In?",
+    "answer": "CERT-In handles cybersecurity incidents and provides guidance on handling threats. [Source: cert-in.org.in]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Can I block or report abuse directly on social media?",
+    "answer": "Yes, all major platforms provide in-built tools for reporting and blocking. [Source: Facebook/Instagram/YouTube Safety Centers]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Are there helplines for cybercrime victims?",
+    "answer": "Yes, dial 1930 for immediate help in financial fraud cases. [Source: MHA Cyber Helpline]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "How can women report cyber abuse?",
+    "answer": "Women can report to cybercrime.gov.in or call 1091, the women’s helpline. [Source: NCW]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Is revenge porn a crime in India?",
+    "answer": "Yes, it is punishable under Section 66E and 67A of the IT Act. [Source: IT Act, 2000]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "How do I secure my social media accounts?",
+    "answer": "Use two-factor authentication, strong passwords, and review app permissions regularly. [Source: CERT-In Guidelines]"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What is phishing and how to avoid it?",
+    "answer": "Phishing is when attackers trick you into revealing sensitive info. Avoid clicking unknown links or sharing OTPs. [Source: RBI Cybersecurity Tips]"
+  },
+  
+  {
+    "intent": "legal_aid",
+    "question": "What is legal aid?",
+    "answer": "Legal aid is the provision of free legal services to people who cannot afford them. [Source: NALSA – National Legal Services Authority]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Who is eligible for free legal aid in India?",
+    "answer": "Women, children, SC/ST communities, disabled persons, victims of trafficking, and people with annual income below a certain limit are eligible. [Source: Section 12, Legal Services Authorities Act, 1987]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "How can I apply for free legal aid?",
+    "answer": "You can apply through your District Legal Services Authority (DLSA), State Legal Services Authority (SLSA), or online at nalsa.gov.in. [Source: NALSA Official Website]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Are women automatically eligible for legal aid?",
+    "answer": "Yes, all women are eligible regardless of income. [Source: NALSA Eligibility Criteria]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Is legal aid available for civil as well as criminal cases?",
+    "answer": "Yes, legal aid is available for both civil and criminal matters. [Source: Legal Services Authorities Act, 1987]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Are victims of domestic violence eligible for legal aid?",
+    "answer": "Yes, they are automatically entitled to free legal assistance. [Source: NALSA Scheme for Women Victims]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Can I get a lawyer for free through legal aid?",
+    "answer": "Yes, a qualified panel lawyer will be assigned to represent you. [Source: NALSA Handbook]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "What documents are required to apply for legal aid?",
+    "answer": "You may need identity proof, income certificate, and a brief of your case. [Source: NALSA Application Procedure]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "What is the role of the Legal Services Authority?",
+    "answer": "They organize legal aid camps, appoint lawyers, and spread legal awareness. [Source: Legal Services Authorities Act]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Is legal aid available in rural areas?",
+    "answer": "Yes, through Village Legal Care and Support Centres. [Source: NALSA Rural Legal Services]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Can legal aid help in filing an FIR?",
+    "answer": "Yes, legal aid lawyers can assist in filing police complaints or FIRs. [Source: NALSA Legal Assistance FAQs]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "What is a Lok Adalat?",
+    "answer": "It is a platform under legal aid for settling disputes amicably without lengthy litigation. [Source: NALSA Lok Adalat Scheme]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Is legal aid available in every district?",
+    "answer": "Yes, each district has a DLSA office under the Legal Services Authority. [Source: DLSA Information Page]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Are there special legal aid services for senior citizens?",
+    "answer": "Yes, senior citizens are entitled to legal aid as per NALSA provisions. [Source: NALSA Senior Citizens Guidelines]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Can I choose my own lawyer under legal aid?",
+    "answer": "The authority assigns a lawyer, but you can request a change with reason. [Source: Legal Aid Manual, NALSA]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Do I have to pay anything to the legal aid lawyer?",
+    "answer": "No, legal aid services are entirely free for eligible persons. [Source: Legal Services Authorities Act]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Are legal aid lawyers competent?",
+    "answer": "Yes, they are trained and selected from a qualified panel. [Source: NALSA Panel Advocates Criteria]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "How long does it take to get a legal aid lawyer?",
+    "answer": "It usually takes 1–3 days, depending on the case urgency and availability. [Source: DLSA Official Site]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Can I track my legal aid case status online?",
+    "answer": "Some states provide online tracking on their SLSA portals. [Source: State Legal Services Websites]"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Is legal aid available for appeals in High Court or Supreme Court?",
+    "answer": "Yes, legal aid is available at all levels including appeals. [Source: SCLSC – Supreme Court Legal Services Committee]"
+  },
+  
+  {
+    "intent": "file_fir",
+    "question": "What is an FIR?",
+    "answer": "An FIR (First Information Report) is a written document prepared by the police when they receive information about a cognizable offence. [Source: Indian Penal Code, Section 154]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "How do I file an FIR?",
+    "answer": "Visit the nearest police station and report the crime verbally or in writing. The police will record it and provide a copy. [Source: NCRB - National Crime Records Bureau]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "Can I file an FIR online?",
+    "answer": "Yes, many states in India allow FIR registration online via their state police websites. [Source: Delhi Police, Maharashtra Police, etc.]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "Is FIR registration free?",
+    "answer": "Yes, registering an FIR is completely free of cost. [Source: Ministry of Home Affairs FAQ]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "What information is needed to file an FIR?",
+    "answer": "Details such as date, time, location of incident, people involved, and a description of what happened. [Source: Indian Evidence Act]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "Can I file an FIR against an unknown person?",
+    "answer": "Yes, you can file an FIR even if the offender is unknown. [Source: IPC Section 154]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "Do I need a lawyer to file an FIR?",
+    "answer": "No, you do not need a lawyer to file an FIR. It can be filed by any individual. [Source: NALSA Legal FAQ]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "Can police refuse to file an FIR?",
+    "answer": "No, police are duty-bound to register an FIR for cognizable offences. You can escalate to a magistrate if refused. [Source: Supreme Court Judgment - Lalita Kumari v. Govt. of UP, 2014]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "What can I do if police refuse to register my FIR?",
+    "answer": "You can approach the Superintendent of Police, or file a complaint before a magistrate. [Source: CrPC Section 154(3)]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "Can I withdraw an FIR?",
+    "answer": "An FIR for a cognizable offence can be quashed by a court, not simply withdrawn by the complainant. [Source: CrPC Section 482]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "Is there a time limit to file an FIR?",
+    "answer": "There is no fixed time limit, but delay may weaken your case. [Source: CrPC Guidelines]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "What is the difference between a complaint and an FIR?",
+    "answer": "A complaint can be made to police or magistrate; FIR is only for cognizable offences and registered by police. [Source: CrPC Sections 2(d), 154]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "Do I get a copy of the FIR after filing?",
+    "answer": "Yes, the police must give you a free copy of your FIR. [Source: CrPC Section 154(2)]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "What happens after an FIR is filed?",
+    "answer": "Police investigate the matter, collect evidence, arrest suspects if needed, and may file a charge sheet. [Source: CrPC Chapter XII]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "Can I track my FIR status?",
+    "answer": "Yes, FIR status can be tracked online on state police portals. [Source: Delhi Police, UP Police, etc.]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "Can I file an FIR from another city or state?",
+    "answer": "Yes, you can file an FIR in any jurisdiction, and police can transfer it to the appropriate station. [Source: Police Reforms India]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "What is a zero FIR?",
+    "answer": "Zero FIR is filed regardless of jurisdiction and can be transferred to the correct police station. [Source: Ministry of Home Affairs Advisory]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "Can a third party file an FIR on behalf of a victim?",
+    "answer": "Yes, anyone aware of the incident can file an FIR. [Source: CrPC Section 154]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "Can FIR be filed against a government official?",
+    "answer": "Yes, but in some cases, prior government sanction may be required. [Source: Prevention of Corruption Act, 1988]"
+  },
+  {
+    "intent": "file_fir",
+    "question": "What is the penalty for filing a false FIR?",
+    "answer": "Filing a false FIR is punishable under IPC Section 182 and may lead to imprisonment. [Source: Indian Penal Code]"
+  },
+  
+  {
+    "intent": "dowry_laws",
+    "question": "What is considered dowry under Indian law?",
+    "answer": "Dowry refers to any property or valuable security given or agreed to be given directly or indirectly in connection with the marriage. [Source: Dowry Prohibition Act, 1961]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "Is giving dowry a punishable offense?",
+    "answer": "Yes. Both giving and taking dowry are punishable offenses under the Dowry Prohibition Act. [Source: Dowry Prohibition Act, 1961]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "What is the punishment for demanding dowry?",
+    "answer": "The punishment can be imprisonment for up to 5 years and a fine up to ₹15,000 or the amount of dowry, whichever is more. [Source: Section 3, Dowry Prohibition Act, 1961]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "Can dowry harassment be reported to the police?",
+    "answer": "Yes, victims can file an FIR under Section 498A IPC and Dowry Prohibition Act. [Source: Indian Penal Code, Section 498A]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "What is Section 498A IPC?",
+    "answer": "It penalizes cruelty by husband or his relatives towards a woman, often in connection with dowry. [Source: IPC Section 498A]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "Is it mandatory to have evidence of dowry demand?",
+    "answer": "Evidence strengthens the case, but even testimony and consistent complaints are admissible. [Source: Legal Services India]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "Can in-laws be prosecuted for dowry harassment?",
+    "answer": "Yes, if they are involved in cruelty or dowry demands, they can be named in the FIR. [Source: IPC Section 498A]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "What should I do if I'm being harassed for dowry after marriage?",
+    "answer": "You should immediately approach the nearest police station or contact the National Commission for Women. [Source: NCW Helpline]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "Are dowry laws gender-specific?",
+    "answer": "Yes, they are primarily designed to protect women from dowry-related abuse. [Source: Ministry of Law & Justice]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "Can a complaint be filed anonymously?",
+    "answer": "Yes, complaints can be filed anonymously through women’s helplines and online portals. [Source: NCW Online Complaint Portal]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "Is there a time limit for filing a dowry case?",
+    "answer": "No fixed limit, but it’s advisable to report early to strengthen the case. [Source: Legal Services Authority]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "What are Protection Officers under PWDVA?",
+    "answer": "They assist women facing domestic violence, including dowry-related cruelty. [Source: Protection of Women from Domestic Violence Act]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "Can a woman claim back the dowry given?",
+    "answer": "Yes, she can file a case to reclaim dowry items or money as they remain her property. [Source: Section 6, Dowry Prohibition Act, 1961]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "What is the role of the National Commission for Women in dowry cases?",
+    "answer": "NCW provides legal support, counseling, and investigates complaints. [Source: NCW Official Website]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "Can NALSA help in dowry cases?",
+    "answer": "Yes, NALSA provides free legal aid and support to women facing dowry harassment. [Source: NALSA.gov.in]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "How can I contact the women’s helpline?",
+    "answer": "You can dial 181 or 1091 (in many states) for immediate assistance. [Source: Women Helpline Directory, Ministry of Women & Child Development]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "Can courts order protection from the husband or in-laws?",
+    "answer": "Yes, under the Domestic Violence Act, courts can order protection and even residence rights. [Source: PWDVA, 2005]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "Are false dowry cases punishable?",
+    "answer": "Yes, if proven false, the complainant may face legal action under IPC Sections 182 or 211. [Source: Indian Penal Code]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "Can mediation be used in dowry cases?",
+    "answer": "Yes, courts may suggest mediation for resolution, especially in marital disputes. [Source: Family Courts Act, 1984]"
+  },
+  {
+    "intent": "dowry_laws",
+    "question": "Can a dowry victim seek maintenance?",
+    "answer": "Yes, she can seek maintenance under Section 125 CrPC or under the Domestic Violence Act. [Source: Criminal Procedure Code, PWDVA]"
+  },
+  
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "What law in India protects women from sexual harassment at work?",
+    "answer": "The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, also known as the POSH Act. [Source: Ministry of Women and Child Development]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "What is considered sexual harassment under the POSH Act?",
+    "answer": "Sexual harassment includes unwelcome physical contact, sexual advances, showing pornography, or any sexually colored remarks. [Source: Section 2(n), POSH Act, 2013]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "What is an Internal Complaints Committee (ICC)?",
+    "answer": "ICC is a mandatory committee in every workplace with 10 or more employees to handle sexual harassment complaints. [Source: POSH Act, Section 4]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "How can a woman file a complaint of sexual harassment?",
+    "answer": "She must submit a written complaint to the ICC within 3 months of the incident. [Source: Section 9, POSH Act]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "Can the complaint be filed anonymously?",
+    "answer": "While anonymous complaints are harder to act upon officially, some organizations allow them via ethics hotlines. [Source: HR Practices, Legal India]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "What actions can ICC take after receiving a complaint?",
+    "answer": "The ICC can conduct an inquiry, recommend disciplinary action, and suggest compensation for the victim. [Source: POSH Act, Section 13]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "Is there a penalty for employers who don't comply with the POSH Act?",
+    "answer": "Yes, they can face fines up to ₹50,000 and cancellation of license or registration. [Source: POSH Act, Section 26]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "Can the accused challenge the findings of ICC?",
+    "answer": "Yes, both parties have the right to appeal against the ICC’s findings. [Source: POSH Act, Section 18]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "Are men covered under the POSH Act?",
+    "answer": "No, the POSH Act is specifically for women, but men can seek redress under other IPC provisions. [Source: POSH Act Scope]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "Is sexual harassment a criminal offense?",
+    "answer": "Yes. Under IPC Section 354A, sexual harassment is a punishable criminal offense. [Source: Indian Penal Code, 354A]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "What is the punishment under IPC for sexual harassment?",
+    "answer": "Imprisonment up to 3 years, fine, or both, depending on the nature of the offense. [Source: IPC Section 354A]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "Can students file complaints under POSH?",
+    "answer": "Yes, educational institutions are also covered under the POSH Act. [Source: UGC Guidelines on Sexual Harassment]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "What if the workplace doesn't have an ICC?",
+    "answer": "Employees can approach the Local Complaints Committee (LCC) set up by the district officer. [Source: POSH Act, Section 6]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "Can contract workers or interns file complaints?",
+    "answer": "Yes, the Act covers contract workers, interns, and even visitors. [Source: POSH Act, Section 2(f)]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "How can companies train their staff about POSH compliance?",
+    "answer": "Companies must conduct regular awareness sessions and workshops. [Source: POSH Act Compliance Rules]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "Can a victim seek compensation?",
+    "answer": "Yes, the ICC can recommend monetary compensation based on the severity and impact. [Source: POSH Act, Section 15]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "What is the role of NGOs in POSH implementation?",
+    "answer": "NGO representatives often sit on ICC panels and help spread awareness. [Source: Ministry of Women & Child Development]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "Is there a government portal to report workplace harassment?",
+    "answer": "Yes, women can report issues via the 'SHe-Box' (Sexual Harassment Electronic Box) online. [Source: shebox.nic.in]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "What happens if a complaint is found false?",
+    "answer": "If found malicious, the ICC may recommend action, but mere inability to prove isn’t enough. [Source: POSH Act, Section 14]"
+  },
+  {
+    "intent": "sexual_harassment_laws",
+    "question": "Can sexual harassment be reported to police apart from ICC?",
+    "answer": "Yes, victims can also file an FIR under IPC in addition to internal mechanisms. [Source: IPC, Section 354A and CrPC]"
+  },
+  
+  {
+    "intent": "self_defense_rights",
+    "question": "Do Indian laws allow women to defend themselves physically?",
+    "answer": "Yes. Indian Penal Code Section 96–106 allow the 'Right of Private Defence' to every individual, including women. [Source: IPC Section 96–106]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "What is the Right to Private Defence in India?",
+    "answer": "It allows a person to protect themselves or others from harm if immediate help from authorities is not available. [Source: IPC Section 97]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Can a woman use a weapon in self-defense?",
+    "answer": "Yes, if the force used is proportional to the threat, women can use available means including weapons. [Source: IPC Section 100]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Is there any limitation on self-defense rights?",
+    "answer": "Yes, self-defense cannot be used as a pretext for revenge or excessive retaliation. [Source: IPC Section 99]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Is killing someone in self-defense legal?",
+    "answer": "Yes, if it’s the only way to protect oneself from grievous injury or sexual assault. [Source: IPC Section 100]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Can self-defense be used against sexual assault?",
+    "answer": "Yes. Self-defense rights explicitly include protection against rape and other sexual offenses. [Source: IPC Section 100]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Do women need to prove intent when using self-defense?",
+    "answer": "They must demonstrate reasonable apprehension of harm. Courts evaluate based on circumstances. [Source: Judicial Interpretations]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Are self-defense tools like pepper spray legal?",
+    "answer": "Yes, pepper spray is legal and often recommended for women's safety in India. [Source: Ministry of Home Affairs]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Can women be arrested for defending themselves?",
+    "answer": "If self-defense is lawful and within limits, they cannot be punished. [Source: IPC Section 96]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Can minors also claim self-defense rights?",
+    "answer": "Yes, the right to self-defense extends to everyone regardless of age. [Source: IPC Section 97]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Can a woman defend another woman from an attacker?",
+    "answer": "Yes, the law permits defense of others when they are under threat. [Source: IPC Section 97]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "What is 'reasonable apprehension of danger'?",
+    "answer": "It means a genuine fear of harm that justifies defensive action. [Source: IPC Section 100 Explanation]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Can self-defense be claimed during domestic violence?",
+    "answer": "Yes, especially when there’s a threat to life or severe harm. [Source: Protection of Women from Domestic Violence Act, 2005 + IPC 100]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Is martial arts training useful for legal self-defense?",
+    "answer": "Yes, many states encourage women to take martial arts for empowerment and safety. [Source: State Govt Initiatives – Delhi Police, Tamil Nadu, etc.]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "What are common self-defense moves that women can learn?",
+    "answer": "Basic wrist grabs, palm strikes, and knee kicks are effective and often taught in workshops. [Source: National Commission for Women trainings]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Is there any helpline if self-defense leads to police involvement?",
+    "answer": "Yes, you can call 112 or contact legal aid services provided by NALSA. [Source: www.nalsa.gov.in]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Are there mobile apps supporting women's self-defense?",
+    "answer": "Yes, apps like Raksha, Himmat, and My Safetipin offer quick access to help. [Source: Ministry of Women & Child Development]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Can self-defense be used in public transport harassment?",
+    "answer": "Yes, if there's a threat to safety or personal space, it is valid. [Source: IPC + POSH Guidelines in Public Transport]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Do police offer self-defense classes for women?",
+    "answer": "Yes, several police departments offer free training. [Source: Delhi Police, Maharashtra Police Women’s Safety Programs]"
+  },
+  {
+    "intent": "self_defense_rights",
+    "question": "Can an FIR be filed if a woman is wrongly arrested for self-defense?",
+    "answer": "Yes, she can file a counter-complaint or seek protection under legal aid. [Source: Legal Services Authority]"
+  },
+
+  {
+    "intent": "legal_aid",
+    "question": "Can persons arrested by police receive legal aid right at the police station?",
+    "answer": "Yes. Under NALSA’s ‘Early Access to Justice’ framework, arrested persons or those called for questioning can avail legal aid immediately at the police station. [Source: NALSA FAQs, question 27]:contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Is a mentally ill person eligible for free legal aid?",
+    "answer": "Yes. Section 12(d) of the Legal Services Authorities Act grants legal aid to mentally ill or otherwise disabled persons. [Source: NALSA FAQs, question 22]:contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Are victims of mass disasters covered under legal aid eligibility?",
+    "answer": "Yes—people affected by floods, caste atrocities, or industrial disasters qualify for free legal aid under Section 12. [Source: NALSA FAQs, question 23]:contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Can state governments prescribe different income limits for legal aid eligibility?",
+    "answer": "Yes. While Section 12(h) sets the framework, each state may set its income ceiling (e.g. Rs 1 lakh to Rs 3 lakh). [Source: NALSA FAQs／Lawrato eligibility tabel]:contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "What legal literacy promotion does NALSA undertake?",
+    "answer": "NALSA runs legal awareness camps, publishes literature, engages Para‑Legal Volunteers, and conducts Lok Adalat services. [Source: NALSA Legal Services page]:contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Who are the Para‑Legal Volunteers in legal aid services?",
+    "answer": "These are trained community volunteers (retired teachers, NGOs, etc.) who assist grassroots legal literacy and application processes. [Source: NALSA Legal Services page]:contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Does NALSA support alternative dispute resolution methods?",
+    "answer": "Yes, NALSA organizes Lok Adalats and mediation to resolve disputes without formal court litigation. [Source: Legal Services Authorities Act & NALSA services]:contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Can an applicant choose a specific lawyer under legal aid?",
+    "answer": "Yes—under Regulation 7(6), applicants may request a panel advocate of their choice. [Source: NALSA Regulations / Legal Aid page]:contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "Is document translation included in free legal aid?",
+    "answer": "Yes—translation and printing of pleadings, appeals, and paper books are provided free under NALSA. [Source: NALSA Legal Services Types]:contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "intent": "legal_aid",
+    "question": "What is NALSA’s Tele‑Law programme?",
+    "answer": "Tele‑Law connects individuals in rural/underserved areas with panel lawyers via video conferencing at Common Service Centres. [Source: Tele‑Law Programme, DOJ & NALSA]:contentReference[oaicite:10]{index=10}"
+  },
+  
+  {
+    "intent": "domestic_abuse",
+    "question": "Can an aggrieved woman obtain monetary relief under the Domestic Violence Act?",
+    "answer": "Yes. Under Section 20 of the Protection of Women from Domestic Violence Act, the woman may be granted maintenance for herself and her children as monetary relief. [Source: PWDVA Section 20]:contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Does the Domestic Violence Act allow an aggrieved woman to remain in the shared household?",
+    "answer": "Yes. Section 17 of the Act ensures that a woman has the right to reside in the shared household even if she has no legal title. [Source: PWDVA Section 17]:contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Who can assist in a domestic violence case under the Act?",
+    "answer": "Protection Officers and service providers can help by filing petitions, arranging medical assistance, counselling, and even accessing shelter homes. [Source: Nyaaya Guide on Getting Help]:contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Is there a time limit to file a domestic violence petition?",
+    "answer": "No strict time limit exists, but the petitioner must establish that a domestic relationship existed at the time of abuse. [Source: Nyaaya Guide]:contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Can a Protection Officer arrange legal representation for me?",
+    "answer": "Yes. Under the Domestic Violence Act, Protection Officers coordinate with Legal Services Authorities to facilitate free legal aid for victims. [Source: Nyaaya Guide on Support]:contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Are shelter homes available under the Domestic Violence Act?",
+    "answer": "Yes. Women have the right to reside in shelter homes, either within or outside the shared household, as protection relief. [Source: PWDVA Shelter Provision]:contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Can medical facilities refuse treatment in abuse cases?",
+    "answer": "No. Medical facilities must provide free treatment in domestic violence cases, irrespective of whether a Protection Order is issued. [Source: PWDVA Free Medical Aid]:contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Is counseling part of legal remedies under the Act?",
+    "answer": "Yes. Courts may order counseling for both parties, especially in cases seeking reconciliation. [Source: Nyaaya Guide on Support]:contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Can NGOs file Domestic Incident Reports on behalf of victims?",
+    "answer": "Yes. Recognized NGOs and service providers can record Domestic Incident Reports and forward them to Protection Officers or courts. [Source: Nyaaya Support Guide]:contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "intent": "domestic_abuse",
+    "question": "Can women of any religion file domestic violence complaints?",
+    "answer": "Yes. The Domestic Violence Act applies irrespective of religion, caste, or status. [Source: Nyaaya Guide on Who Can Seek Protection]:contentReference[oaicite:10]{index=10}"
+  },
+  
+  {
+    "intent": "cyber_abuse",
+    "question": "Where can women report cyber crimes like online harassment or cyberstalking in India?",
+    "answer": "Women can report such offenses on the National Cyber Crime Reporting Portal (cybercrime.gov.in), which has a dedicated ‘Report Crime related to Women/Child’ section allowing anonymous filing. [Source: Cyber Crime Portal FAQ & I4C]([turn0search8], [turn0search11])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Can cybercrime related to sexual content be reported anonymously?",
+    "answer": "Yes—reports involving child pornography or rape/gang rape content can be filed anonymously without providing personal details. [Source: Cyber Crime Portal FAQ]([turn0search8])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What information do I need to provide when filing a cybercrime complaint online?",
+    "answer": "You must register using a valid Indian mobile number to receive an OTP, then provide details of the incident, platform, and evidence such as screenshots or URLs. [Source: Cyber Crime Portal FAQ & legalcrusader.in guide]([turn0search6], [turn0search2])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What types of cybercrimes can be reported through the official portal?",
+    "answer": "You can report all types—personal safety, social media harassment, financial fraud, hacking, ransomware—through sections for ‘Crime related to Women/Child’ and ‘Other Cybercrimes’. [Source: Cyber Crime Portal FAQ]([turn0search2])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What helpline can I call for help with a cybercrime complaint in India?",
+    "answer": "You can call the national cybercrime helpline number **1930**—recognized across all states and linked to the portal. [Source: i4c / Ministry of Home Affairs]([turn0search7], [turn0search11])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "If my FIR is refused at a local police station, what should I do?",
+    "answer": "Approach higher authorities such as the SP, Cyber Cell DCP, or file a writ petition in High Court under Article 226 of the Constitution. [Source: legalcrusader.in guide]([turn0search6])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What is the role of Cyber Volunteers under the National Cybercrime Portal?",
+    "answer": "Citizens, NGOs, or groups can register as Cyber Volunteers to flag unlawful content and promote awareness via the volunteer program. [Source: I4C guidelines]([turn0search7], [turn0search11])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Are all cybercrimes reportable online or can I go offline as well?",
+    "answer": "Yes, you can file online or go to your nearest police station or District Cyber Crime Cell to lodge a report in person. [Source: legalcrusader.in guide]([turn0search6])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Can victims track the status of their cybercrime complaint?",
+    "answer": "Yes—those who file using the ‘Report and Track’ option receive a complaint reference number to monitor status updates online. [Source: Cyber Crime Portal FAQ]([turn0search2])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What if social media platforms don't act on reported abusive content?",
+    "answer": "You should still report via the cybercrime portal; do not rely solely on platform reporting, especially for crimes targeting women. [Source: Cyber Crime Portal FAQ]([turn0search2])"
+  },
+  
+  {
+    "intent": "cyber_abuse",
+    "question": "What is I4C and what role does it play in cybercrime prevention?",
+    "answer": "The Indian Cybercrime Coordination Centre (I4C), established in January 2020 under the Ministry of Home Affairs, coordinates national efforts in cybercrime prevention, training, investigation, and volunteer engagement. [Source: I4C FAQ]([turn0search3])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Can citizens report suspect phone numbers or URLs suspected of cybercrime?",
+    "answer": "Yes—through the ‘Report Suspect’ facility on the cybercrime.gov.in portal, you can flag suspicious phone numbers, email IDs, URLs, and social handles. [Source: NCRP Suspect Repository feature]([turn0search2])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What types of cyber offences can I report related to women or children?",
+    "answer": "You can report crimes like child pornography, rape/gangrape imagery, cyber grooming, stalking, or other digitally manifest violence via the Women/Child section. [Source: NCRP FAQ]([turn0search2])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What is the process to register as a Cyber Volunteer?",
+    "answer": "Citizens can register as ‘Unlawful Content Flaggers’ or ‘Cyber Awareness Promoters’ by creating a profile, uploading ID and address proofs, and selecting a volunteer category. [Source: I4C Cyber Volunteers]([turn0search0])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Are cyber abuse reports always tracked or can they be submitted anonymously?",
+    "answer": "For crimes involving child pornography or sexual content, you may submit anonymously; other reports require phone number and contact details under the ‘Report and Track’ option. [Source: I4C/NCRP FAQ]([turn0search3])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What helpline can I call if I’m unable to file a complaint online?",
+    "answer": "You can call the national cybercrime helpline **1930**, staffed by state police authorities to support online or offline reporting. [Source: I4C Citizen Reporting FAQ]([turn0search3])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Can I withdraw a cybercrime complaint if I change my mind?",
+    "answer": "Yes. Complaints can be withdrawn via the portal’s ‘withdraw complaint’ option after a processing period, which may take up to 30 days. [Source: user experience shared on Reddit matching NCRP procedure]([turn0reddit26])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "How is citizen-submitted evidence used in cybercrime investigations?",
+    "answer": "Submitted screenshots, URLs, and identifiers are forwarded to the relevant State/UT cyber cell for investigation and possible FIR registration. [Source: NCRP workflow FAQ]([turn0search3])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "Does the cybercrime portal have a mobile-friendly or app version?",
+    "answer": "Currently, reporting is done via web portal only, but many state police (like Kerala, Maharashtra) support WhatsApp helplines or mobile kiosks. [Source: various state cybercell updates]([turn0news10])"
+  },
+  {
+    "intent": "cyber_abuse",
+    "question": "What initiatives exist to train cybercrime response, especially for women?",
+    "answer": "Programs like Digital Shakti and Pink Booth Officer training empower women to file and investigate cyber complaints efficiently via portal and helpline interfaces. [Source: CyberPeace Foundation & state police training]([turn0news10], [turn0search23])"
+  },
+  
+  {
+    "intent": "workplace_equality",
+    "question": "What does workplace equality mean under Indian law?",
+    "answer": "Workplace equality ensures that no employee is discriminated against based on gender, caste, or religion, and everyone receives equal pay and opportunities. [Source: Equal Remuneration Act, 1976]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Are women entitled to equal pay in India?",
+    "answer": "Yes. The Equal Remuneration Act mandates equal pay for equal work regardless of gender. [Source: Equal Remuneration Act, 1976, Section 4]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Is it legal to hire only male candidates for a job?",
+    "answer": "No. Unless gender is a genuine occupational requirement, such discrimination is illegal. [Source: Equal Remuneration Act, Section 5]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Can a woman file a complaint against gender-based promotion denial?",
+    "answer": "Yes. Denial of promotion on the basis of gender can be challenged legally. [Source: Constitution of India, Article 15]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Are there laws supporting equal opportunity hiring?",
+    "answer": "Yes. The Equal Remuneration Act prohibits discrimination in recruitment and service conditions. [Source: Equal Remuneration Act, 1976]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Do women have the right to flexible working conditions?",
+    "answer": "Yes. Women can request flexible hours post maternity as per the Maternity Benefit Act. [Source: Maternity Benefit (Amendment) Act, 2017]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Can a woman report unequal pay anonymously?",
+    "answer": "While anonymous complaints are not always formally accepted, whistleblower protections may apply in public institutions. [Source: Public Interest Disclosure and Protection of Informers Resolution]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "What action can be taken if an employer pays women less for the same role?",
+    "answer": "A complaint can be filed with the Labour Commissioner or through legal aid services. [Source: Ministry of Labour & Employment]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Is workplace equality monitored by any authority?",
+    "answer": "Yes. Labour Inspectors under the Equal Remuneration Act monitor compliance. [Source: Equal Remuneration Act, 1976]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Can part-time female workers claim equal pay?",
+    "answer": "Yes. Equal pay provisions apply to part-time workers too. [Source: Equal Remuneration Act, 1976]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Does India have any gender quotas for private sector jobs?",
+    "answer": "No mandatory quotas exist, but guidelines encourage gender diversity. [Source: Ministry of Corporate Affairs]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Can unequal treatment in training opportunities be challenged?",
+    "answer": "Yes. Any disparity in access to training based on gender can be reported. [Source: Equal Remuneration Act, Section 5]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Are women allowed to work night shifts?",
+    "answer": "Yes. But employers must provide safe working conditions and transportation. [Source: Shops & Establishment Acts, various states]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Is it legal to ask a woman about her marital status during interviews?",
+    "answer": "No. Questions about marital or family plans are considered discriminatory. [Source: NCW Guidelines]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Does Indian law ensure equality in workplace safety?",
+    "answer": "Yes. Safety standards must apply equally to all employees regardless of gender. [Source: Factories Act, 1948]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "What recourse does a woman have if she is demoted post-pregnancy?",
+    "answer": "This is illegal under the Maternity Benefit Act, and legal action can be taken. [Source: Maternity Benefit (Amendment) Act, 2017]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Are transgender persons protected under workplace equality laws?",
+    "answer": "Yes. The Transgender Persons Act, 2019 ensures no discrimination in employment. [Source: Transgender Persons (Protection of Rights) Act, 2019]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Can a man raise an equality complaint too?",
+    "answer": "Yes. Workplace equality applies to all genders under Indian law. [Source: Constitution of India, Article 14]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Is there a government helpline to report workplace discrimination?",
+    "answer": "Yes. You can call 181 (women’s helpline) or approach the Labour Commissioner. [Source: NCW, Ministry of Labour & Employment]"
+  },
+  {
+    "intent": "workplace_equality",
+    "question": "Do women have equal rights in contract employment?",
+    "answer": "Yes. Gender equality laws apply irrespective of permanent or contractual status. [Source: Equal Remuneration Act, 1976]"
+  },
+  
+  {
+    "intent": "child_custody_rights",
+    "question": "What is the key principle in deciding child custody cases in India?",
+    "answer": "The child's welfare is the paramount consideration, as per the Guardians and Wards Act, 1890. [Source: NALSA]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "Can a mother automatically get custody of her child after divorce?",
+    "answer": "Not automatically. Courts consider multiple factors including the child's age, health, and emotional needs. [Source: Nyaaya]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "Is joint custody legally recognized in India?",
+    "answer": "Yes, Indian courts can grant joint custody if it is in the best interest of the child. [Source: iPleaders]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "Which law governs child custody for Hindus?",
+    "answer": "The Hindu Minority and Guardianship Act, 1956, along with the Guardians and Wards Act, 1890. [Source: India Code]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "Can a child choose which parent to live with?",
+    "answer": "Yes, if the child is of sufficient maturity, their preference is considered by the court. [Source: LiveLaw]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "Does the gender of the child affect custody decisions?",
+    "answer": "No. Indian law does not discriminate based on the child's gender in custody matters. [Source: Nyaaya]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "Is custody awarded permanently?",
+    "answer": "No, custody can be modified by the court if circumstances change significantly. [Source: India Legal Live]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "What is the difference between custody and guardianship?",
+    "answer": "Custody relates to daily care, while guardianship includes legal authority over decisions. [Source: NALSA]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "Can grandparents be granted custody of a child?",
+    "answer": "Yes, if the court finds it is in the child’s best interest and both parents are unfit. [Source: iPleaders]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "What age is considered important in awarding custody to mothers?",
+    "answer": "Children under the age of 5 are generally placed with the mother, unless unfit. [Source: India Code]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "Can a parent take a child abroad without court permission?",
+    "answer": "No, the custodial parent must get court approval or risk charges like kidnapping. [Source: LiveLaw]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "Can custody be shared if parents live in different cities?",
+    "answer": "Shared custody may be difficult; visitation rights are more likely in such cases. [Source: iPleaders]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "What if a custodial parent remarries?",
+    "answer": "The court will assess whether the new environment is in the child’s best interest. [Source: India Legal Live]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "Is legal aid available for child custody cases?",
+    "answer": "Yes, eligible parents can get free legal aid through District Legal Services Authorities (DLSA). [Source: NALSA]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "Can fathers get custody of daughters?",
+    "answer": "Yes, custody is based on welfare, not gender of the parent or child. [Source: Nyaaya]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "What documents are needed to file for custody?",
+    "answer": "Marriage certificate, birth certificate of the child, proof of income, and evidence of parental care. [Source: iPleaders]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "Can unmarried mothers claim custody?",
+    "answer": "Yes, unmarried mothers are recognized as natural guardians of their children. [Source: LiveLaw]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "Is psychological counseling required in custody battles?",
+    "answer": "Courts may recommend it to assess the child’s emotional state and family dynamics. [Source: iPleaders]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "Can custody orders be appealed?",
+    "answer": "Yes, either parent can appeal a family court's custody ruling to a higher court. [Source: India Code]"
+  },
+  {
+    "intent": "child_custody_rights",
+    "question": "What role do family courts play in custody disputes?",
+    "answer": "Family courts specialize in handling domestic and custody cases, aiming for child-friendly resolutions. [Source: NALSA]"
+  },
+  
+  {
+    "intent": "divorce_procedure",
+    "question": "What is the minimum separation period required to file for mutual divorce in India?",
+    "answer": "Couples must live separately for at least one year before filing for mutual divorce under Section 13B of the Hindu Marriage Act. [Source: Hindu Marriage Act, 1955]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "Can the 6-month cooling-off period in mutual divorce be waived?",
+    "answer": "Yes. The Supreme Court allows waiver of the cooling-off period if there's no possibility of reconciliation. [Source: Amardeep Singh vs Harveen Kaur, 2017 SCC Online SC 1073]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "What are the valid grounds for contested divorce in India?",
+    "answer": "Grounds include cruelty, desertion, adultery, mental disorder, conversion, and incurable disease. [Source: Section 13, Hindu Marriage Act, 1955]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "Can mental cruelty alone justify a divorce?",
+    "answer": "Yes, mental cruelty has been accepted as a valid ground for divorce by Indian courts. [Source: Vishwanath Agrawal v. Sarla Vishwanath Agrawal (2012) 7 SCC 288]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "Is adultery still a criminal offence after the 2018 Supreme Court ruling?",
+    "answer": "No. The Supreme Court decriminalized adultery in 2018 but it remains a civil ground for divorce. [Source: Joseph Shine vs Union of India, 2018 SCC OnLine SC 1676]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "What documents are required to file for divorce?",
+    "answer": "Marriage certificate, ID/address proof, income documents, and evidence supporting divorce grounds are required. [Source: Nyaaya.org]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "Can a divorce be filed online in India?",
+    "answer": "Some state courts offer e-filing portals for divorce petitions, but personal appearances are still required. [Source: eCourts Services India]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "Is legal representation necessary in divorce proceedings?",
+    "answer": "It’s not mandatory, but hiring a lawyer is highly advisable for both mutual and contested divorces. [Source: Nyaaya.org]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "Can one party oppose a mutual divorce after filing?",
+    "answer": "Yes. Mutual divorce requires consent from both parties until the final decree. [Source: Section 13B, Hindu Marriage Act, 1955]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "Can a spouse claim maintenance after divorce?",
+    "answer": "Yes. Under Section 25 of the Hindu Marriage Act, either spouse may claim permanent alimony. [Source: Hindu Marriage Act, 1955]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "Is foreign divorce recognized in India?",
+    "answer": "Yes, if it satisfies the principles of natural justice and both parties were represented. [Source: Y. Narasimha Rao & Ors. v. Y. Venkata Lakshmi & Anr. (1991) 3 SCC 451]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "How long does a typical mutual divorce take in India?",
+    "answer": "With waiver of the 6-month period, it can take 6–8 months; otherwise 12–18 months. [Source: Nyaaya.org]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "Can NRIs file for divorce in Indian courts?",
+    "answer": "Yes, if either spouse resides in India or the marriage was solemnized/registered here. [Source: Ministry of External Affairs (MEA)]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "Can divorce be granted without the presence of both parties?",
+    "answer": "In contested divorce, an ex parte decree may be passed if one party doesn't appear. [Source: Order IX, Code of Civil Procedure]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "Can women claim the husband's property after divorce?",
+    "answer": "Women cannot claim a share in the husband's property but can claim maintenance and residence rights. [Source: Protection of Women from Domestic Violence Act, 2005]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "What if one spouse refuses to grant divorce?",
+    "answer": "The other spouse may file for contested divorce citing appropriate legal grounds. [Source: Section 13, Hindu Marriage Act, 1955]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "Can a court grant divorce immediately in cases of extreme cruelty?",
+    "answer": "Although cruelty is a valid ground, due process and hearings are still required. [Source: Supreme Court guidelines]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "Is counseling mandatory before granting divorce?",
+    "answer": "Family courts often recommend counseling, especially in mutual divorce petitions. [Source: Family Courts Act, 1984]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "Can a woman withdraw her consent in a mutual divorce?",
+    "answer": "Yes. Either party can withdraw consent anytime before the final decree. [Source: Section 13B(2), Hindu Marriage Act, 1955]"
+  },
+  {
+    "intent": "divorce_procedure",
+    "question": "What is an ex parte divorce decree?",
+    "answer": "It’s a decree passed in favor of one spouse when the other does not appear in court. [Source: Order IX, CPC]"
+  },
+  
+  {
+    "intent": "police_complaint_process",
+    "question": "How can I file a police complaint in India?",
+    "answer": "You can file a complaint at any police station, either verbally or in writing. The officer must record it under the appropriate register. [Source: Ministry of Home Affairs, India]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "What is the difference between a police complaint and an FIR?",
+    "answer": "A complaint may or may not lead to registration of an FIR. FIRs are only registered for cognizable offenses. [Source: CrPC, Section 154]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "Is there a time limit to file a police complaint?",
+    "answer": "There is no strict time limit, but delays should be explained and may weaken the case. [Source: Indian Penal Code and judicial guidelines]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "Can I file a police complaint online?",
+    "answer": "Yes, many state police websites allow you to file complaints or register FIRs online. [Source: Digital Police Portal, MHA]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "Can a woman file a complaint at any police station regardless of jurisdiction?",
+    "answer": "Yes. Under the Zero FIR concept, complaints can be filed at any station and later transferred. [Source: Ministry of Home Affairs Notification]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "What is Zero FIR?",
+    "answer": "Zero FIR allows registration of an FIR at any police station, even outside the jurisdiction. [Source: Ministry of Home Affairs, India]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "What should I do if the police refuse to register my complaint?",
+    "answer": "You can escalate to the Superintendent of Police or file a private complaint in court. [Source: CrPC Section 154(3)]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "Can a complaint be filed anonymously?",
+    "answer": "Yes, anonymous complaints can be submitted, though they may not always lead to formal action. [Source: State Police Guidelines]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "What is a cognizable offence?",
+    "answer": "Cognizable offences are serious crimes where police can arrest without a warrant. [Source: CrPC, Schedule I]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "Can I withdraw a police complaint after filing?",
+    "answer": "Non-cognizable complaints can be withdrawn, but FIRs in cognizable cases usually require court permission. [Source: Judicial Precedents]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "What is the role of a magistrate in police complaints?",
+    "answer": "Magistrates supervise investigation and can order the police to register an FIR if refused. [Source: CrPC Section 156(3)]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "Is there a fee to file a police complaint?",
+    "answer": "No, filing a police complaint or FIR is completely free of cost. [Source: MHA Guidelines]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "Do I need a lawyer to file a police complaint?",
+    "answer": "No, a lawyer is not required to file a complaint, though one can help draft it properly. [Source: Legal Services India]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "How can I track the status of my complaint?",
+    "answer": "You can track it via the state police website or visit the police station directly. [Source: Digital Police Portal]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "What is a non-cognizable offence?",
+    "answer": "Non-cognizable offences are minor crimes where police need court approval to investigate. [Source: CrPC, Schedule I]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "Can I file a complaint on behalf of someone else?",
+    "answer": "Yes, anyone aware of an offence can file a complaint with the police. [Source: CrPC Section 154]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "Is the police bound to register all complaints?",
+    "answer": "Police must register FIRs for cognizable offences; they may conduct a preliminary inquiry for others. [Source: Lalita Kumari v. Govt. of U.P. (2014)]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "Can I receive a copy of my FIR?",
+    "answer": "Yes, you are entitled to a free copy of the FIR at the time of registration. [Source: CrPC Section 154]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "Can the police close a complaint without investigation?",
+    "answer": "Only if the complaint is found to be false or baseless after a preliminary inquiry. [Source: Police Manual & CrPC]"
+  },
+  {
+    "intent": "police_complaint_process",
+    "question": "Can I file a complaint through a helpline or WhatsApp?",
+    "answer": "Yes, many states provide police helplines, email, and WhatsApp numbers for urgent complaints. [Source: State Police Departments]"
+  },
+
+
+  {
+    "intent": "cybercrime_reporting",
+    "question": "How can women report cyberstalking or online harassment?",
+    "answer": "Women can file complaints at cybercrime.gov.in or call the helpline 1930. Local police or cyber cells also accept complaints. [Source: Ministry of Home Affairs, India]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Is there a women-specific platform for reporting cyber harassment?",
+    "answer": "Yes, women can also lodge complaints directly with the National Commission for Women (ncw.nic.in). [Source: NCW]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "What if someone uploads morphed or intimate photos of a woman online?",
+    "answer": "This is a serious cybercrime under Sections 67 and 66E of the IT Act. Report it immediately to cybercrime.gov.in. [Source: IT Act, 2000]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Can women file cybercrime complaints without revealing their identity?",
+    "answer": "Yes, anonymous reporting is allowed for sensitive complaints like blackmail or cyberstalking. [Source: cybercrime.gov.in FAQ]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Are there special cells for women in cybercrime cases?",
+    "answer": "Yes. Many states have Women Cyber Cells and Mahila Police desks for handling gender-based online crimes. [Source: State Police Departments]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Is sharing revenge porn a punishable offense?",
+    "answer": "Yes. Sharing explicit images without consent is punishable under the IT Act and IPC Section 354C. [Source: IT Act & Indian Penal Code]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "What legal action can women take against threats received on social media?",
+    "answer": "Threats can be reported as cybercrime and may lead to charges under Section 507 IPC. [Source: IPC & MHA Guidelines]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Is doxing or publishing a woman's personal data online illegal?",
+    "answer": "Yes, unauthorized sharing of private data is punishable under Section 66E of the IT Act. [Source: IT Act, 2000]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Can women report WhatsApp abuse or blackmail?",
+    "answer": "Yes, screenshots and phone numbers can be submitted at cybercrime.gov.in as evidence. [Source: I4C Guidelines]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Can girls under 18 report cyberbullying?",
+    "answer": "Yes. Girls or their guardians can report cyberbullying through NCPCR or cybercrime.gov.in. [Source: National Commission for Protection of Child Rights]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Is impersonation using a woman’s name or photos online a crime?",
+    "answer": "Yes, creating fake profiles or using someone’s identity without consent is punishable under Section 66D. [Source: IT Act, 2000]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Can police refuse to register a cyber complaint from a woman?",
+    "answer": "No. As per Zero FIR rules, any police station must register the complaint. [Source: MHA Advisory on Women's Safety]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Can I report sexual threats sent via email or DM?",
+    "answer": "Yes. You can attach the screenshots and message links in your complaint at cybercrime.gov.in. [Source: cybercrime.gov.in]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Is there legal help available for women filing cybercrime cases?",
+    "answer": "Yes, women can seek free legal aid through the National Legal Services Authority (NALSA). [Source: NALSA]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Are obscene messages sent to women punishable?",
+    "answer": "Yes. Sending lewd or obscene messages is punishable under Section 67 of the IT Act and Section 509 IPC. [Source: IT Act & IPC]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "How long does it take to act on a woman’s cybercrime complaint?",
+    "answer": "Action is often initiated within 24–72 hours in urgent cases like financial fraud or threats. [Source: cybercrime.gov.in]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Is trolling women online a legal offense?",
+    "answer": "Yes. Repeated trolling, abuse, or intimidation online is prosecutable under cyber laws. [Source: IT Act and IPC]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Can a woman report cybercrime without parental consent?",
+    "answer": "Yes, any adult woman can report independently; minors may involve a guardian. [Source: cybercrime.gov.in FAQ]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Are there awareness programs for women on cyber safety?",
+    "answer": "Yes. Initiatives like Cyber Jagrookta Divas and NCW campaigns educate women on cyber safety. [Source: NCW & I4C]"
+  },
+  {
+    "intent": "cybercrime_reporting",
+    "question": "Can I report harassment on matrimonial or dating sites?",
+    "answer": "Yes, cybercrime related to any platform — including matrimonial or dating apps — is reportable. [Source: Ministry of Home Affairs]"
+  },
+  
+  {
+    "intent": "NRI_women_rights",
+    "question": "What legal options does an NRI woman have if abandoned by her husband abroad?",
+    "answer": "She can file a complaint under Section 498A IPC and seek assistance from Indian embassies and the NRI cell of the Ministry of External Affairs. [Source: MEA Guidelines on NRI Marriages]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "Can an NRI woman file for maintenance from her spouse living overseas?",
+    "answer": "Yes, she can file under Section 125 CrPC or the Protection of Women from Domestic Violence Act, and enforce orders through mutual legal assistance treaties. [Source: Ministry of Women & Child Development]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "What support does the Indian government provide to NRI women facing domestic abuse?",
+    "answer": "The MEA provides legal and financial aid through Indian missions under the Scheme for Legal/Financial Assistance. [Source: MEA India]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "Is marriage registration mandatory for NRI couples?",
+    "answer": "Yes, the Ministry of External Affairs recommends compulsory registration of NRI marriages within 30 days. [Source: MEA Draft Bill on NRI Marriages, 2017]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "Can an NRI woman approach the Indian courts if her husband divorces her abroad?",
+    "answer": "Yes. A foreign divorce decree is valid in India only if it complies with Indian laws and principles of natural justice. [Source: Supreme Court in Y. Narasimha Rao v. Y. Venkata Lakshmi, 1991]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "Can Indian courts restrain an NRI spouse from taking children abroad?",
+    "answer": "Yes. Courts can issue orders and lookout circulars to prevent international abduction of children. [Source: Ministry of Home Affairs & High Court rulings]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "Is legal aid available for NRI women fighting cases in India?",
+    "answer": "Yes. Women can approach the National Legal Services Authority (NALSA) or District Legal Services Authorities for free legal aid. [Source: NALSA]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "Where can NRI women report harassment or abandonment?",
+    "answer": "Complaints can be filed with Indian Missions abroad, MEA’s MADAD portal, or the National Commission for Women. [Source: MEA MADAD Portal]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "Can NRI women report issues with in-laws who are in India?",
+    "answer": "Yes. FIRs can be filed against in-laws under IPC Sections 498A, 406, etc., even if the husband is abroad. [Source: Indian Penal Code]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "How can an NRI woman recover her stridhan (dowry/property) if she is stuck abroad?",
+    "answer": "She can initiate legal proceedings in Indian courts and file complaints under Section 406 IPC. [Source: IPC & Supreme Court rulings]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "Is there any travel ban mechanism for NRI husbands who abandon their wives?",
+    "answer": "Yes, lookout circulars (LOCs) can be issued to prevent the husband from leaving or entering India. [Source: Ministry of Home Affairs]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "What is the role of the NCW for NRI women?",
+    "answer": "NCW handles NRI women's grievances, coordinates with MEA, and facilitates legal help through its NRI cell. [Source: National Commission for Women]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "Can NRI women apply for protection orders under the Domestic Violence Act?",
+    "answer": "Yes. If the abuse occurred in India or if parties have ties to India, courts can issue protection orders. [Source: Protection of Women from Domestic Violence Act, 2005]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "Are NRI women eligible to file child custody cases in India?",
+    "answer": "Yes. Indian courts can decide child custody matters if the child is in India or the parents are Indian citizens. [Source: Guardians and Wards Act, 1890]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "Can an NRI woman's foreign marriage certificate be used in Indian courts?",
+    "answer": "Yes, if it’s attested and translated as required under Indian legal norms. [Source: MEA Attestation Guidelines]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "Can Indian embassies help repatriate women trapped in abusive NRI marriages?",
+    "answer": "Yes. Embassies can assist with shelter, emergency travel documents, and repatriation support. [Source: MEA Standard Operating Procedures for NRI Marriages]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "What action can be taken if an NRI man marries multiple women illegally?",
+    "answer": "The woman can file for bigamy under IPC Section 494, punishable by imprisonment. [Source: Indian Penal Code]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "Can an NRI woman file a cybercrime complaint against online blackmail?",
+    "answer": "Yes. She can report it on cybercrime.gov.in or through Indian embassies. [Source: Ministry of Home Affairs]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "Are there government funds to assist NRI women in legal battles?",
+    "answer": "Yes. Under the MEA’s scheme, eligible women can receive financial support for legal proceedings. [Source: MEA Scheme for NRI Women]"
+  },
+  {
+    "intent": "NRI_women_rights",
+    "question": "What precautions should Indian women take before marrying an NRI?",
+    "answer": "Verify the man’s credentials, check immigration status, and insist on marriage registration. [Source: NCW Advisory on NRI Marriages]"
+  },
+  
+  {
+    "intent": "maintenance_rights",
+    "question": "What is maintenance under Indian law?",
+    "answer": "Maintenance refers to financial support a person is legally obliged to provide to their spouse, child, or parents. [Source: Section 125, Criminal Procedure Code (CrPC)]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Can a wife claim maintenance after divorce?",
+    "answer": "Yes. A divorced wife who is unable to maintain herself can claim maintenance from her ex-husband. [Source: Section 125 CrPC]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Is a working wife eligible for maintenance?",
+    "answer": "Yes, if her income is insufficient to meet her basic needs, she can still claim maintenance. [Source: Indian Court Rulings, Delhi HC, 2014]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "What is the difference between maintenance under Section 125 CrPC and the Hindu Marriage Act?",
+    "answer": "Section 125 CrPC is a secular provision, while the Hindu Marriage Act applies only to Hindus and covers both interim and permanent alimony. [Source: Hindu Marriage Act, 1955]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Can a woman in a live-in relationship claim maintenance?",
+    "answer": "Yes, if the relationship was long-term and resembles marriage, she may claim maintenance. [Source: Protection of Women from Domestic Violence Act, 2005]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Can maintenance be claimed during divorce proceedings?",
+    "answer": "Yes. A woman can claim interim maintenance until the final divorce decree is granted. [Source: Section 24, Hindu Marriage Act, 1955]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Is there a cap on the amount of maintenance?",
+    "answer": "There is no fixed cap. Courts decide the amount based on the husband's income, lifestyle, and needs of the wife. [Source: Judicial Discretion]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Can a woman claim maintenance if the husband is unemployed?",
+    "answer": "Yes. The husband is legally obligated to maintain his wife, even if currently unemployed. [Source: Supreme Court rulings]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Can Muslim women claim maintenance?",
+    "answer": "Yes, under the Muslim Women (Protection of Rights on Divorce) Act, 1986 and also Section 125 CrPC. [Source: Supreme Court in Shah Bano case, 1985]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Is maintenance taxable for women?",
+    "answer": "Monthly maintenance is not taxable, but lump sum alimony may be taxed depending on the circumstances. [Source: Income Tax Act, 1961]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "What happens if the husband fails to pay maintenance?",
+    "answer": "A warrant can be issued, and he may face arrest or attachment of property. [Source: Section 125(3), CrPC]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "How can a woman apply for maintenance?",
+    "answer": "She can file a petition in the local magistrate’s court or family court with necessary documents. [Source: CrPC Section 125 Procedure]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Can a woman claim maintenance for children as well?",
+    "answer": "Yes. Maintenance can be claimed for minor children and even major children if they are disabled. [Source: Section 125 CrPC]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Is maintenance applicable in mutual divorce?",
+    "answer": "Yes, the couple may mutually agree on a maintenance amount which the court then approves. [Source: Hindu Marriage Act, 1955]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Can a second wife claim maintenance?",
+    "answer": "If the second marriage is invalid under law, she may still claim maintenance under the Domestic Violence Act. [Source: Domestic Violence Act, 2005]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Is interim maintenance granted quickly?",
+    "answer": "Courts are instructed to dispose of interim maintenance claims within 60 days. [Source: Supreme Court guidelines, 2020]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Can parents of a deceased woman claim maintenance from the in-laws?",
+    "answer": "No, but they may seek justice under dowry or domestic violence laws. [Source: Dowry Prohibition Act, 1961]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Can maintenance be increased after divorce?",
+    "answer": "Yes. If expenses increase or income decreases, the recipient can approach the court for revision. [Source: CrPC Section 127]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Can maintenance be claimed under more than one law?",
+    "answer": "Yes. A woman can claim maintenance under multiple laws, but cannot get duplicate relief. [Source: Legal Precedents]"
+  },
+  {
+    "intent": "maintenance_rights",
+    "question": "Are free legal services available to file for maintenance?",
+    "answer": "Yes, under NALSA and DLSA schemes, women can get free legal aid for maintenance claims. [Source: National Legal Services Authority]"
+  }
+]
+
+
+
+
+
+
+
+
